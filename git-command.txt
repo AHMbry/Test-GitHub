@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "comment"
+git push .
+
+git branch
+git branch name-of-the-new-branch
+git checkout name-of-the-new-branch
+git checkout -b name-of-the-new-branch
+git merge
