@@ -1,0 +1,25 @@
+.L1 { 
+background-color: red;
+color: aqua;
+font-weight: bold;
+
+}
+#L2 {
+    padding: 100px;
+}
+
+ul {
+    padding: 12px;
+    display: flex;
+    list-style: none;
+
+}
+li {
+    margin: 10px;
+    border-style: dashed;
+    border-color: brown;
+    border-width: 0.5px;
+}
+button {
+    border-radius: 10px 5px 15px 20px;
+}
